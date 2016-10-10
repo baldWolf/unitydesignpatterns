@@ -1,15 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DesVisitor : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+public class DesVisitor : MonoBehaviour 
+{
+	public DesVisitor()
+	{
+		
 	}
 }
