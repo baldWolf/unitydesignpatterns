@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class OpObjectPool : MonoBehaviour {
+public class DesObjectPool : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
